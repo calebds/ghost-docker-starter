@@ -1,0 +1,10 @@
+{
+  "name": "my-ghost-blog",
+  "version": "0.1.0",
+  "author": "Caleb Sotelo @paislee"
+  "description": "Starter project for Ghost/Docker",
+  "dependencies": {
+    "my-ghost-theme": "^0.1.0"
+  }
+}
+
