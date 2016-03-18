@@ -11,7 +11,7 @@ __Features:__
 - Live code reloading during theme development
 - Persistent development instances of Ghost blogs
 
-Full article with more details here: http://paislee.io/how-to-develop-ghost-themes-with-docker.
+Full article with more details here: http://paislee.io/how-to-develop-ghost-themes-wth-docker.
 
 ## Getting started
 
